@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeaComputersTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="no_Internet">No Internet</string>
+    <string name="check_your_internet_or_data_status">Check your internet or data status</string>
+</resources>
